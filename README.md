@@ -6,7 +6,11 @@ Liste des entreprises basées en France proposant des emplois **salariés** en 1
 
 | Nom de l'entreprise | Domaine(s) de recrutement       | Page "Recrutement"         |
 | -----------------   |---------------------------------| :-------------------------:|
-| [BoondManager](https://www.boondmanager.com/) | Développement | [Lien](https://www.boondmanager.com/recrutement/) |
+| [Back Market](https://www.backmarket.fr/) | DevOps | [Lien](https://jobs.backmarket.fr/) |
+| [BoondManager](https://www.boondmanager.com/) | Développement Web & Mobile | [Lien](https://www.boondmanager.com/recrutement/) |
+| [Ector](https://www.ectorparking.com/) | Développement Web | [Lien](https://www.welcometothejungle.com/fr/companies/ector) |
+| [O'clock](https://oclock.io/) | Formation, Développement Web | [Lien](https://www.welcometothejungle.com/fr/companies/o-clock) |
+| [PeopleDoc](https://www.people-doc.fr/) | Développement Web, UX | [Lien](https://www.people-doc.fr/carrieres) |
 
 ## Contribuer
 
