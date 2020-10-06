@@ -11,6 +11,7 @@ Liste des entreprises basées en France proposant des emplois **salariés** en 1
 | [Ector](https://www.ectorparking.com/) | Développement Web | [Lien](https://www.welcometothejungle.com/fr/companies/ector) |
 | [O'clock](https://oclock.io/) | Formation, Développement Web | [Lien](https://www.welcometothejungle.com/fr/companies/o-clock) |
 | [PeopleDoc](https://www.people-doc.fr/) | Développement Web, UX | [Lien](https://www.people-doc.fr/carrieres) |
+| [SensioLabs](https://sensiolabs.com/fr/) | Développeurs / Formateurs Symfony | [Lien](https://sensiolabs.com/fr/nous_rejoindre/nos_offres_d_emploi.html) |
 | [YouSign](https://yousign.com/fr-fr) | Développement API, Qualité | [Lien](https://www.welcometothejungle.com/fr/companies/yousign) |
 
 ## Contribuer
