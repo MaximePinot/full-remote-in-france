@@ -10,6 +10,7 @@ Liste des entreprises basées en France proposant des emplois **salariés** en 1
 | [BoondManager](https://www.boondmanager.com/) | Développement Web & Mobile | [Lien](https://www.boondmanager.com/recrutement/) |
 | [Ector](https://www.ectorparking.com/) | Développement Web | [Lien](https://www.welcometothejungle.com/fr/companies/ector) |
 | [Kactus](https://www.kactus.com/) | Développement Web (Ruby) | [Lien](https://www.welcometothejungle.com/fr/companies/kactus/tech) |
+| [Livestorm](https://livestorm.co/) | Développement Web | [Lien](https://jobs.livestorm.co/l/fr) |
 | [O'clock](https://oclock.io/) | Formation, Développement Web | [Lien](https://www.welcometothejungle.com/fr/companies/o-clock) |
 | [PeopleDoc](https://www.people-doc.fr/) | Développement Web, UX | [Lien](https://www.people-doc.fr/carrieres) |
 | [SensioLabs](https://sensiolabs.com/fr/) | Développeurs / Formateurs Symfony | [Lien](https://sensiolabs.com/fr/nous_rejoindre/nos_offres_d_emploi.html) |
